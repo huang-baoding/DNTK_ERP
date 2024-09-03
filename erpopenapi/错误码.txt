@@ -1,0 +1,59 @@
+{
+	"Result": {
+		"ResponseStatus": {
+			"ErrorCode": 500,
+			"IsSuccess": false,
+			"Errors": [{
+				"FieldName": "FPurchaseUnitId",
+				"Message": "字段“采购单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FPurchasePriceUnitId",
+				"Message": "字段“采购计价单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FMinIssueUnitId",
+				"Message": "字段“最小发料批量单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "F_TBIB_Combo",
+				"Message": "字段“编码属性”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FMaterialGroup",
+				"Message": "字段“物料分组”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FSalePriceUnitId",
+				"Message": "字段“销售计价单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FSaleUnitId",
+				"Message": "字段“销售单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FStoreUnitID",
+				"Message": "字段“库存单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FBaseUnitId",
+				"Message": "字段“基本单位”是必填项",
+				"DIndex": 0
+			}, {
+				"FieldName": "FStoreUnitID",
+				"Message": "编码为“WL20231127101640”的物料，库存单位不能与辅助单位相同!",
+				"DIndex": 0
+			}, {
+				"FieldName": "FAuxPropertyId",
+				"Message": "物料WL20231127101640在使用组织07-14中库存页签的是否启用批号与物料维度中的批号启用不一致！",
+				"DIndex": 0
+			}],
+			"SuccessEntitys": [],
+			"SuccessMessages": [],
+			"MsgCode": 11
+		},
+		"Id": "",
+		"Number": "",
+		"NeedReturnData": [{}]
+	}
+}

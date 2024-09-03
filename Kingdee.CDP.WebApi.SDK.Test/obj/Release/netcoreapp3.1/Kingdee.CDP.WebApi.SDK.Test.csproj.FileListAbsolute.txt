@@ -1,0 +1,770 @@
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache
+D:\code\work\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache
+D:\code\work\合智\.net6\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\Project\合智\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.exe
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\testhost.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Config\11appsettings.json
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.deps.json
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\bin\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.AssemblyReference.cache
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfoInputs.cache
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.AssemblyInfo.cs
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CoreCompileInputs.cache
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.csproj.CopyComplete
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.dll
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.pdb
+C:\Users\zzx\Desktop\erpopenapi\Kingdee.CDP.WebApi.SDK.Test\obj\Release\netcoreapp3.1\Kingdee.CDP.WebApi.SDK.Test.genruntimeconfig.cache

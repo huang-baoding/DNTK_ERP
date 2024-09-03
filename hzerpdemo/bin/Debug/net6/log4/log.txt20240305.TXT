@@ -1,0 +1,2 @@
+2024-03-05 15:33:49,179 [6] INFO  hzerpdemo.Controllers.BomDraftController - 同步数据formid:82D5286851E34DFF96692F878B1A6873
+2024-03-05 15:34:46,015 [6] INFO  hzerpdemo.Controllers.BomDraftController - View ENG_BOM结果：{"Result":{"ResponseStatus":{"ErrorCode":500,"IsSuccess":false,"Errors":[{"FieldName":null,"Message":"传递的编码值不存在","DIndex":0}],"SuccessEntitys":[],"SuccessMessages":[],"MsgCode":8}}}

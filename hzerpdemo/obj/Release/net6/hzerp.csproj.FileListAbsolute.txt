@@ -1,0 +1,822 @@
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\testhost.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\testhost.exe
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.Development.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Config\appsettings.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.staticwebassets.runtime.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.exe
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Data\Unit.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Data\合智PLM2ERP参数.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Aras.Net.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Aras.OAuth.Model.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\IOM.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.Primitives.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.deps.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.runtimeconfig.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.pdb
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Configuration.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CoreUtilities.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.Utilities.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Newtonsoft.Json.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\NuGet.Frameworks.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\System.Configuration.ConfigurationManager.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\System.Security.Cryptography.ProtectedData.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.AssemblyReference.cache
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfoInputs.cache
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfo.cs
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CoreCompileInputs.cache
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cs
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cache
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cache
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cs
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.build.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.development.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.hzerp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.build.hzerp.props
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildMultiTargeting.hzerp.props
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildTransitive.hzerp.props
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.pack.json
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\scopedcss\bundle\hzerp.styles.css
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CopyComplete
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\refint\hzerp.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.pdb
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.genruntimeconfig.cache
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\obj\Release\net6\ref\hzerp.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\log4net.xml
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\log4net.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\code\work\合智\.net6\erpopenapi\hzerpdemo\bin\Release\net6\Config\11appsettings.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\testhost.exe
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\testhost.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.Development.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Config\appsettings.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.staticwebassets.runtime.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.exe
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Config\11appsettings.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Data\Unit.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Data\合智PLM2ERP参数.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Aras.Net.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Aras.OAuth.Model.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\IOM.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\log4net.xml
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.Primitives.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.deps.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.runtimeconfig.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.pdb
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\log4net.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Configuration.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.Utilities.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Newtonsoft.Json.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\NuGet.Frameworks.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\System.Configuration.ConfigurationManager.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\System.Security.Cryptography.ProtectedData.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.AssemblyReference.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfoInputs.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfo.cs
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CoreCompileInputs.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cs
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.hzerp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.build.hzerp.props
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildMultiTargeting.hzerp.props
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildTransitive.hzerp.props
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.pack.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.build.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.development.json
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\scopedcss\bundle\hzerp.styles.css
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CopyComplete
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\refint\hzerp.dll
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.pdb
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.genruntimeconfig.cache
+D:\Users\sty\Desktop\PLM项目\合智\吕华栋\erpopenapi (2)\erpopenapi\hzerpdemo\obj\Release\net6\ref\hzerp.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\testhost.exe
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\testhost.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.Development.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Config\appsettings.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.staticwebassets.runtime.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.exe
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Config\11appsettings.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Data\Unit.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Data\合智PLM2ERP参数.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Aras.Net.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Aras.OAuth.Model.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\IOM.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\log4net.xml
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.Primitives.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.deps.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.runtimeconfig.json
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.pdb
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\log4net.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Configuration.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.Utilities.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Newtonsoft.Json.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\NuGet.Frameworks.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\System.Configuration.ConfigurationManager.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\System.Security.Cryptography.ProtectedData.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\Project\合智\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.AssemblyReference.cache
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfoInputs.cache
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfo.cs
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CoreCompileInputs.cache
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cache
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cs
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.hzerp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.build.hzerp.props
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildMultiTargeting.hzerp.props
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildTransitive.hzerp.props
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.pack.json
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.build.json
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.development.json
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\scopedcss\bundle\hzerp.styles.css
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CopyComplete
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.dll
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\refint\hzerp.dll
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.pdb
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.genruntimeconfig.cache
+D:\Project\合智\erpopenapi\hzerpdemo\obj\Release\net6\ref\hzerp.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\testhost.exe
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\testhost.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.Development.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Config\appsettings.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.staticwebassets.runtime.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.exe
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Config\11appsettings.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Data\Unit.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Data\合智PLM2ERP参数.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Aras.Net.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Aras.OAuth.Model.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\IOM.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\log4net.xml
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.Primitives.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.deps.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.runtimeconfig.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.pdb
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\log4net.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Configuration.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CoreUtilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.Utilities.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Newtonsoft.Json.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\NuGet.Frameworks.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\System.Configuration.ConfigurationManager.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\System.Security.Cryptography.ProtectedData.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.AssemblyReference.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfoInputs.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfo.cs
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CoreCompileInputs.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cs
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cs
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.build.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.development.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.hzerp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.build.hzerp.props
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildMultiTargeting.hzerp.props
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildTransitive.hzerp.props
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.pack.json
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\scopedcss\bundle\hzerp.styles.css
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CopyComplete
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\refint\hzerp.dll
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.pdb
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.genruntimeconfig.cache
+D:\新建文件夹\合智\HZGit\erpopenapi\erpopenapi\hzerpdemo\obj\Release\net6\ref\hzerp.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\testhost.exe
+D:\erpopenapi\hzerpdemo\bin\Release\net6\testhost.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.Development.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Config\appsettings.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.deps.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.staticwebassets.runtime.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.exe
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Config\11appsettings.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Data\Unit.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Data\合智PLM2ERP参数.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Aras.Net.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Aras.OAuth.Model.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\IOM.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\log4net.xml
+D:\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.Primitives.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.deps.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.runtimeconfig.json
+D:\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.pdb
+D:\erpopenapi\hzerpdemo\bin\Release\net6\log4net.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Configuration.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CoreUtilities.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.Utilities.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Newtonsoft.Json.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\NuGet.Frameworks.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\System.Configuration.ConfigurationManager.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\System.Security.Cryptography.ProtectedData.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.dll
+D:\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.pdb
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.AssemblyReference.cache
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfoInputs.cache
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfo.cs
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CoreCompileInputs.cache
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cs
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cache
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cache
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cs
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.build.json
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.development.json
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.hzerp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.build.hzerp.props
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildMultiTargeting.hzerp.props
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildTransitive.hzerp.props
+D:\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.pack.json
+D:\erpopenapi\hzerpdemo\obj\Release\net6\scopedcss\bundle\hzerp.styles.css
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CopyComplete
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.dll
+D:\erpopenapi\hzerpdemo\obj\Release\net6\refint\hzerp.dll
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.pdb
+D:\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.genruntimeconfig.cache
+D:\erpopenapi\hzerpdemo\obj\Release\net6\ref\hzerp.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\testhost.exe
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\testhost.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.Development.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\appsettings.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Config\appsettings.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.deps.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.runtimeconfig.dev.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.staticwebassets.runtime.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.exe
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Config\11appsettings.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Data\Unit.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Data\合智PLM2ERP参数.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Aras.Net.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Aras.OAuth.Model.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\IOM.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\log4net.xml
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.Primitives.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.deps.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.runtimeconfig.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\hzerp.pdb
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\log4net.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Configuration.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Newtonsoft.Json.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\NuGet.Frameworks.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\System.Configuration.ConfigurationManager.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\System.ServiceModel.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\bin\Release\net6\Kingdee.CDP.WebApi.SDK.Test.pdb
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.AssemblyReference.cache
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfoInputs.cache
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.AssemblyInfo.cs
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CoreCompileInputs.cache
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cache
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.RazorAssemblyInfo.cs
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.hzerp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.build.hzerp.props
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildMultiTargeting.hzerp.props
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets\msbuild.buildTransitive.hzerp.props
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.pack.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.build.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\staticwebassets.development.json
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\scopedcss\bundle\hzerp.styles.css
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.csproj.CopyComplete
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\refint\hzerp.dll
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.pdb
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\hzerp.genruntimeconfig.cache
+C:\Users\zzx\Desktop\erpopenapi\hzerpdemo\obj\Release\net6\ref\hzerp.dll

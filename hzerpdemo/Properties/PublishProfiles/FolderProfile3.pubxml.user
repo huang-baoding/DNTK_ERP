@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Project\合智\publish</_PublishTargetUrl>
+    <History>True|2024-06-12T10:31:24.5176639Z;True|2024-06-12T18:21:28.5509055+08:00;True|2024-06-05T18:36:07.6800974+08:00;True|2024-06-05T17:51:39.1085548+08:00;True|2024-06-05T17:44:01.5099373+08:00;True|2024-06-05T17:34:58.3581129+08:00;True|2024-06-05T17:12:27.8094928+08:00;True|2024-06-04T14:15:11.8210935+08:00;True|2024-06-04T14:12:33.1060088+08:00;True|2024-05-29T13:38:41.8434203+08:00;True|2024-05-28T16:23:35.3602066+08:00;True|2024-05-28T16:06:55.6055488+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

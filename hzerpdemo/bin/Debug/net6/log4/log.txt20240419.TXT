@@ -1,0 +1,4 @@
+2024-04-19 08:17:50,655 [27] INFO  hzerpdemo.Controllers.PartDraftController - 同步数据formid：397468BC37624F33BF6677D7AB6AB38A
+2024-04-19 08:17:56,485 [27] INFO  hzerpdemo.Controllers.PartDraftController - 测试连接返回结果：{"Id":null,"ResponseStatus":{"ErrorCode":null,"IsSuccess":true,"Errors":null,"SuccessEntitys":null}}
+2024-04-19 08:18:17,974 [27] INFO  hzerpdemo.Controllers.PartDraftController - 查看物料结果：{"Result":{"ResponseStatus":{"ErrorCode":500,"IsSuccess":false,"Errors":[{"FieldName":null,"Message":"传递的编码值不存在","DIndex":0}],"SuccessEntitys":[],"SuccessMessages":[],"MsgCode":8}}}
+2024-04-19 08:18:38,574 [27] INFO  hzerpdemo.Controllers.PartDraftController - 暂存物料结果：{"Result":{"ResponseStatus":{"ErrorCode":500,"IsSuccess":false,"Errors":[{"FieldName":null,"Message":"传递的编码值不存在","DIndex":0}],"SuccessEntitys":[],"SuccessMessages":[],"MsgCode":8}}}

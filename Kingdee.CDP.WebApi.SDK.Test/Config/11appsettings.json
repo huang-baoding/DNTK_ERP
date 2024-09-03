@@ -1,0 +1,23 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "Version": "1.0.0",
+  //������ϵͳ��¼��Ȩ������ID
+  "X-KDApi-AcctID": "65e13c8fa6d0eb",
+  //������ϵͳ��¼��Ȩ��Ӧ��ID
+  "X-KDApi-AppID": "271623_W7dAR/GJzpG/RZ+ER23N5YVv0hR+wNLF",
+  //������ϵͳ��¼��Ȩ��Ӧ����Կ
+  "X-KDApi-AppSec": "2831745a5cc749d8870349ad923892f4",
+  //������ϵͳ��¼��Ȩ���û�
+  "X-KDApi-UserName": "PLM测试",
+  //������ϵ��Ĭ��2052
+  "X-KDApi-LCID": "2052",
+  //����Url��ַ  (ֻ��˽�����û���Ҫ����Serverurl,�������û������ز���Ҫ����)
+  "X-KDApi-ServerUrl": "http://192.168.9.202/k3cloud/"
+}

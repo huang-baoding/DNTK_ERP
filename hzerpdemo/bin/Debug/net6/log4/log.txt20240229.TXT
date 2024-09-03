@@ -1,0 +1,13 @@
+2024-02-29 07:58:08,416 [4] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 08:18:48,735 [6] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 09:43:27,011 [11] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 10:30:38,848 [6] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 10:39:32,366 [9] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:14:13,171 [4] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:14:16,776 [4] ERROR hzerpdemo.Controllers.MesInterfaceController - One or more errors occurred. (The SSL connection could not be established, see inner exception.)
+2024-02-29 11:14:32,580 [4] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:17:00,315 [4] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:23:33,249 [6] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:24:30,036 [4] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:30:25,782 [6] INFO  hzerpdemo.Controllers.MesInterfaceController - 同步数据formid：A588E4936955447F81F6B5259E5FC77F
+2024-02-29 11:30:47,332 [6] INFO  hzerpdemo.Controllers.MesInterfaceController - mes返回结果 result：{"msg":"文件解析成功","code":200}
